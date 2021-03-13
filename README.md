@@ -5,7 +5,7 @@
 
 Add the following to your packages.json file
 
-    "@six-paths/jsonwebtoken": "github:six-paths/jsonwebtoken#0.0.1"
+    "@six-paths/jsonwebtoken": "npm:six-paths--jsonwebtoken"
 
 ## Usage
 
@@ -31,4 +31,4 @@ Add the following to your packages.json file
 
     npm install # Install dependencies
     npm run build # Build module
-    npm test # Run tests
+    npm run test # Run tests

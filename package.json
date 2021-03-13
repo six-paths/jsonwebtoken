@@ -1,7 +1,7 @@
 {
     "name": "six-paths--jsonwebtoken",
-    "version": "0.0.1",
-    "private": true,
+    "version": "0.0.4",
+    "private": false,
     "description": "JSON Web Token Service",
     "main": "./lib/index.js",
     "license": "MIT",
